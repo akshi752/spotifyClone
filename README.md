@@ -1,7 +1,8 @@
 # 🎧 Spotify UI Clone (HTML & CSS Only)
 
-A static front-end clone of Spotify's homepage built using pure **HTML** and **CSS**.  
-This project was created as a layout and design practice, aiming to replicate the Spotify web interface for desktop screen sizes.
+A beginner-level static clone of Spotify’s homepage built using pure HTML and CSS.
+This project was developed as a learning exercise to understand front-end layout techniques and UI structuring.
+It helped me practice designing real-world interfaces and improve my CSS styling skills.
 
 ---
 
