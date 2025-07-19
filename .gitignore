@@ -1,0 +1,13 @@
+# 🗑 Windows system files
+Thumbs.db
+Desktop.ini
+
+# 🔧 VS Code editor settings (optional)
+.vscode/
+
+# 🗂 Temporary or backup files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
